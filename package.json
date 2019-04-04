@@ -13,7 +13,7 @@
     ],
     "main": "js/version-tag.js",
     "bin": {
-        "pa:tag-release": "js/bin/tag-release.js"
+        "pa-tag-release": "js/bin/tag-release.js"
     },
     "repository": {
         "type": "git",
