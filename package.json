@@ -9,7 +9,7 @@
         "node": ">= 6.10.2"
     },
     "files": [
-        "bin"
+        "js"
     ],
     "main": "js/version-tag.js",
     "bin": {
