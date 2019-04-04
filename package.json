@@ -1,0 +1,32 @@
+{
+    "name": "@kagenoneko/process-automation",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {
+        "node": ">= 6.10.2"
+    },
+    "files": [
+        "bin"
+    ],
+    "main": "js/version-tag.js",
+    "bin": {
+        "pa:tag-release": "bin/tag-release.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KageNoNeko/process-automation.git"
+    },
+    "homepage": "https://github.com/KageNoNeko/process-automation#readme",
+    "bugs": {
+        "url": "https://github.com/KageNoNeko/process-automation/issues"
+    },
+    "author": {
+        "name": "Sergey Yakovlev",
+        "url": "https://github.com/KageNoNeko"
+    },
+    "license": "ISC"
+}
